@@ -6,4 +6,6 @@
 ####[Download from Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/twitter-video-downloader)
 
 ## Screenshot
-![Shaparak Verifier](https://raw.githubusercontent.com/imohamaad/Shaparak-Verifier-for-firefox/master/screenshot/all.jpg)
+![Twitter Video Downloader](https://raw.githubusercontent.com/imohamaad/Twitter-Video-Downloader--firefox-addon/master/screenshot/1.jpg)
+![Twitter Video Downloader](https://raw.githubusercontent.com/imohamaad/Twitter-Video-Downloader--firefox-addon/master/screenshot/2.jpg)
+![Twitter Video Downloader](https://raw.githubusercontent.com/imohamaad/Twitter-Video-Downloader--firefox-addon/master/screenshot/3.jpg)
