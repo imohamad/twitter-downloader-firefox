@@ -1,0 +1,15 @@
+{
+  "title": "Twitter Video Downloader",
+  "name": "twitter-video-downloader",
+  "version": "1.0.0",
+  "description": "Download Video From Twitter.",
+  "main": "main.js",
+  "author": "MohamadReza Deylami | http://imohamad.me | Twitter: @iShelbyBoy",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
